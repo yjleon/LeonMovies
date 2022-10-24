@@ -1,0 +1,19 @@
+{
+  "name": "leonmovies",
+  "version": "1.0.0",
+  "description": "proyecto consumo de API IMBD",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjleon/LeonMovies.git"
+  },
+  "author": "yjleon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yjleon/LeonMovies/issues"
+  },
+  "homepage": "https://github.com/yjleon/LeonMovies#readme"
+}
